@@ -32,7 +32,7 @@ Presenting the Neural Network of articles you need to optimise your learning. Th
 
 LICENSE:
 ==========================
-Copyright (c) 2021 The Insightful Coder
+Copyright (c) 2022 The Insightful Coder
 
 This project is licensed under the MIT License.
 <p align="center">
